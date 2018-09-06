@@ -1,2 +1,2 @@
 # Testing
-This is a testing hub created to know about git hub
+This is a testing hub created to know about git hub.
